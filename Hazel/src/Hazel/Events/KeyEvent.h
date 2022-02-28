@@ -2,6 +2,8 @@
 
 #include "Event.h"
 
+// TODO: msbuild indexer issue after using PCH (last commit)
+
 namespace Hazel
 {
     class HAZEL_API KeyEvent : public Event
